@@ -8,7 +8,7 @@ Fomu Programmer
 Overview
 ========
 
-This repository contains the open hardware design for `Antmicro's <https://antmicro.com>`_  programming board for Fomu, i.e. the FPGA incarnation of the `Tomu project <https://github.com/im-tomu/fomu-hardware>`_ - an FPGA that fits into your USB port (and the easiesy way to get started with FPGA and/or RISC-V development).
+This repository contains the open hardware design for `Antmicro's <https://antmicro.com>`_  programming board for Fomu, i.e. the `FPGA incarnation of the Tomu project <https://github.com/im-tomu/fomu-hardware>`_ - an FPGA that fits into your USB port (and the easiesy way to get started with FPGA and/or RISC-V development).
 The programmer lets you upload initial firmware into your Fomu over a micro-USB connection.
 It is based on a two-channel FT2232 FTDI interface providing JTAG and debug UART interfaces.
 Along with PCB design files the repository describes also a Fomu fastening mechanism with a mechanical lever and a PCB fixture which makes Fomu programming more convenient.
