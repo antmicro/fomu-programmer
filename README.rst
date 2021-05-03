@@ -2,6 +2,8 @@
 Fomu Programmer
 ===============
 
+Copyright (c) 2019-2021 `Antmicro <https://www.antmicro.com>`_
+
 .. image:: Images/fomu-programmer.png
    :scale: 40%
 
@@ -34,6 +36,4 @@ Please refer to Fomu firmware programming guidelines for further information reg
 License
 =======
 
-MIT
-
-Copyright (c) 2019 `Antmicro <www.antmicro.com>`_
+`Apache-2.0 <LICENSE>`_
